@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "project Node",
+  "main": "index.js",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardvipgroup/node.git"
+  },
+  "author": "Eduard Panteleev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardvipgroup/node/issues"
+  },
+  "homepage": "https://github.com/eduardvipgroup/node#readme"
+}
